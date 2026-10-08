@@ -11,7 +11,7 @@ Klipper configuration for my Voron 2.4 (350 mm build).
 Start G-code:
 
 ```gcode
-PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer] PROBE=150
+PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer]
 ```
 
 End G-code:
