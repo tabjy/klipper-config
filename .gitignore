@@ -1,8 +1,10 @@
+/printer.cfg
+
 # SAVE_CONFIG automatic backups (printer-YYYYMMDD_HHMMSS.cfg)
-printer-[0-9]*.cfg
+/printer-[0-9]*.cfg
 
 # SAVE_CONFIG temp file
-*_autosave.cfg
+/*_autosave.cfg
 
 .DS_Store
 Thumbs.db
