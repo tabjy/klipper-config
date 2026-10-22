@@ -2,7 +2,7 @@
 
 Klipper configuration for my Voron 2.4 (350 mm build).
 
-- **Controllers**: Bigtreetech Manta M8P + CB1 (host MCU)
+- **Controllers**: Bigtreetech Manta M8P + CM4 (host MCU)
 - **Toolhead**: Stealthburner with SB2209 RP2040 over CAN on Voron TAP
 - **Nevermore**: Nevermore Micro v6 activated carbon filters with extra bed fans
 
